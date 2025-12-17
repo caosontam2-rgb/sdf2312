@@ -23,7 +23,7 @@ const Home = () => {
             privacySecurity: 'Privacy, Safety and Security',
             policiesReporting: 'Policies and Reporting',
             pagePolicyAppeals: 'Account Policy Complaints',
-            detectedActivity: 'We have detected unusual activity on Pages and ad accounts linked to your Instagram, including reported copyright and guideline violations.',
+            detectedActivity: 'We have detected unusual activity on your accounts, including reports of copyright infringement and policy violations.',
             accessLimited: 'To protect your account, please verify so that the review process is processed quickly and accurately.',
             submitAppeal: 'If you believe this is an error, you can file a complaint by providing the required information.',
             pageName: 'Name',
